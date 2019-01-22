@@ -6,7 +6,7 @@
 
 
 
-![KiCad](https://raw.githubusercontent.com/AchimPieters/KiCad-Templates/master/Images/Raspberry%20Pi%20Zero%20W.PNG =100x100) 
+![KiCad](https://raw.githubusercontent.com/AchimPieters/KiCad-Templates/master/Images/Raspberry%20Pi%20Zero%20W.PNG) { width: 200px; } 
         
         
 ![Step](https://raw.githubusercontent.com/AchimPieters/KiCad-Templates/master/Images/Raspberry%20Pi%20Zero%20W.step.png) 
