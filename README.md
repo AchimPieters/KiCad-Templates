@@ -4,7 +4,11 @@
 
 ## Raspberry Pi Zero W
 
-![KiCad](https://raw.githubusercontent.com/AchimPieters/KiCad-Templates/master/Images/Raspberry%20Pi%20Zero%20W.PNG | width=100) 
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/AchimPieters/KiCad-Templates/master/Images/Raspberry%20Pi%20Zero%20W.PNG/460/300">
+</p>
+
+![KiCad](https://raw.githubusercontent.com/AchimPieters/KiCad-Templates/master/Images/Raspberry%20Pi%20Zero%20W.PNG) 
         
         
 ![Step](https://raw.githubusercontent.com/AchimPieters/KiCad-Templates/master/Images/Raspberry%20Pi%20Zero%20W.step.png) 
