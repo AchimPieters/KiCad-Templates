@@ -6,7 +6,7 @@
 
 
 
-![KiCad|20%](https://raw.githubusercontent.com/AchimPieters/KiCad-Templates/master/Images/Raspberry%20Pi%20Zero%20W.PNG) 
+![KiCad](https://raw.githubusercontent.com/AchimPieters/KiCad-Templates/master/Images/Raspberry%20Pi%20Zero%20W.PNG =100) 
         
         
 ![Step](https://raw.githubusercontent.com/AchimPieters/KiCad-Templates/master/Images/Raspberry%20Pi%20Zero%20W.step.png) 
