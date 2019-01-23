@@ -8,9 +8,9 @@ With this addon board (HAT) you can easily extend the functionality of the Raspb
 - [x] Kicad Files
 - [x] 3D Files
 
-<p><img src="https://raw.githubusercontent.com/AchimPieters/KiCad-Templates/master/Images/Raspberry%20Pi%20Zero%20W.PNG" width="300" title="Github Logo">
+<p><img src="https://raw.githubusercontent.com/AchimPieters/KiCad-Templates/master/Images/Raspberry%20Pi%20Zero%20W.PNG" width="400" title="Github Logo">
 </p>
-<p><img src="https://raw.githubusercontent.com/AchimPieters/KiCad-Templates/master/Images/Raspberry%20Pi%20Zero%20W.step.png" width="300" title="Github Logo">
+<p><img src="https://raw.githubusercontent.com/AchimPieters/KiCad-Templates/master/Images/Raspberry%20Pi%20Zero%20W.step.png" width="400" title="Github Logo">
 </p>
 
   
